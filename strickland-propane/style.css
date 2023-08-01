@@ -1,0 +1,36 @@
+
+
+body{
+    background: rgba(255, 255, 255, 0.788);
+    text-align: center;
+}
+
+header{
+    background-color: rgb(212, 48, 48);
+    background-position: center center;
+    background-size: cover;
+    display: block;
+}
+
+figure{
+    display:block;
+    justify-content: center;
+}
+
+
+nav{
+    display:block;
+    justify-content: center;
+}
+
+li{
+    display:inline-flex;
+    list-style-type:none;
+}
+
+
+a:link{
+    text-decoration: none;
+    color: black;
+}
+
